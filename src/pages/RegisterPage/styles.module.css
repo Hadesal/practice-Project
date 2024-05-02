@@ -1,0 +1,11 @@
+.phoneInput::placeholder {
+  /* default state */
+  color: rgba(0, 0, 0, 0.6); /* Default placeholder color */
+  opacity: 1;
+}
+
+.phoneInputError::placeholder {
+  /* error state */
+  color: rgba(217, 8, 8, 0.877); /* Error placeholder color */
+  opacity: 1;
+}
